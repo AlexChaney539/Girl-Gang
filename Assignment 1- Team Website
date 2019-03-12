@@ -1,13 +1,30 @@
 <!DOCTYPE html>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">Team Website</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <a class="active"><a href="#">Home</a>
+      <a href="Taylor.html">Taylor</a>
+      <a href="Lexie.html">Lexie</a>
+      <a href="Devan.html">Devan</a>
+      <a href="Alex.html">Alex</a>
+    </ul>
+  </div>
+</nav>
+
+
 <html>
   <title>Team Website</title>
-  <style>
+  <style> /*Link to outside source (href) */
   body{
     text-align:center;
     color:Black;
     background-color:Silver;
     font-size: 20px;
     font-style: monospace;
+    background: linear-gradient(35deg, #CCFFFF,#FFCCCC);
   }
   .smaller-image{
     width:200px;
@@ -19,14 +36,14 @@
   }
   .thin-black-border {
     border-color: black;
-    border-width: 3px;
-    border-style: dashed;
-    border-radius: 80px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 100px;
   }
   .bold-blue-border {
     border-color: #4F97A3;
     border-width: 5px;
-    border-radius: 10px;
+    border-radius: 100px;
     border-style: solid;
   }
   </style>
@@ -36,18 +53,18 @@
 
     <h1 style= color:purple;>Taylor Renner</h1>
     <img class = "smaller-image thin-green-border" src="https://cdn.discordapp.com/attachments/511449381073846280/535037149741973520/12032198_10203739799615964_4320512583226737048_n.jpg" alt="Taylor Renner">
-    <p>Hello! My name is Taylor and I'm a Gaming Interactive Media Mobile major. I am most interested in story design for video games, and my favorite genre is horror games! The game that inspired me to get into design is Resident Evil 4. I am interested in making a 2D puzzle, horror, survival game within the next year or year and a half using RPG maker.</p>
+    <p>Hello! My name is Taylor and I'm a Gaming Interactive Media Mobile major. I am most interested in story design for video games, and my favorite genre is horror games! The game that inspired me to get into design is Resident Evil 4. I am interested in making a 2D puzzle, horror, survival game within the next year or year and a half using RPG maker. I spend most of my time playing Tom Clancy's: Rainbow Six Siege!</p>
 
   <h1 style= color:#4F97A3;> Devan Chaney</h1>
       <img class ="smaller-image bold-blue-border" src="https://cdn.discordapp.com/attachments/405447054802944021/544399338177298433/U3LFRN_9_400x400.jpg" alt="Devan Chaney">
-      <p>Heya! My name is Devan and I'm a Gaming, Interactive, Media & Mobile major at Boise State University. I enjoy the visual/sound aspect of gaming and mainly have a knack for animation. I am currently gathering information for a "choice simulator" game idea, looking to make it from scratch or using Tyrano Builder with some reverse engineering. I enjoy playing games that have amazing visuals/music like Moonlighter, Pyre, Hotline Miami, and many more! I have been animating all throughtout high school and continue to do so. My skills include animation, illustration, mild photography, and video editing.</p>
+      <p>Heya! My name is Devan and I'm a Gaming, Interactive, Media & Mobile major at Boise State University. I enjoy the visual/sound aspect of gaming and mainly have a knack for animation. I am currently gathering information for a "choice simulator" game idea, looking to make it from scratch or using Tyrano Builder. I enjoy playing games that have amazing visuals/music like Moonlighter, Pyre, Hotline Miami, and many more!</p>
 
   <h1 style = color:red;>Alex Chaney</h1>
       <img class="smaller-image thin-black-border" src="https://cdn.discordapp.com/attachments/405447054802944021/542170716464873472/IMG_9262.JPG" alt="Alex Chaney">
-      <p>Howdy!! I am Alexandra Chaney, a Sophomore in the GIMM Major at Boise State University! I have a heavy influence with Material Science Engineering so the visual side of GIMM is what I like to deal with. I enjoy games with a Heavy story such as The Last of Us and Red Dead Redemption 2. Some of my skills include things such as visual artwork like photography and graphic design.</p>
+      <p>Howdy!! I am Alexandra Chaney, a Sophomore in the GIMM Major at Boise State University! I have a heavy influence with Material Science Engineering, so the visual side of GIMM is what I like to deal with. I enjoy games with a Heavy story such as The Last of Us and Red Dead Redemption 2.</p>
 
   <h1>Lexie Wright</h1>
     <img class ="smaller-image" src="https://lh3.googleusercontent.com/_QvhY3ozVb2ULxKvl80IXEVVj-it1HTiFRLCI5xtAFWXVGyZ9oq90oWFIzx-vT_HvxZw3Waq8YPoSqUmoM7FrbO48Snn3Sezo7BKb3GXc88QbSylQTc8M4tSVieUzbQU4JoF0WMM" alt="Lexie Wright">
-    <p>Hey there! My name is Lexie and I am a GIMM and Psychology major. I work for BSU ESports as well as housing. In my free time I'm either playing fetch with my dog, painting, or playing Overwatch. I am interested in making a first-person mystery game within the next two years. Some of my skills include 2D animation, creative writing, and additive manufacturing. dp>
+    <p>Hey! My name is Lexie and I am a GIMM and Psychology major. I work for BSU ESports as well as housing. In my free time I'm either playing fetch with my dog, painting, or playing Overwatch.</p>
+</body>
 </html>
-hey there, just wanted it to say that we edited something, ignore this comment!
