@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+
+<center><h1 class= "bigger-font">Taylor's Page</h1></center>
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+
+  <body>
+
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <a href="Home Page">Home</a> | <a href="Devon's Page">Devan</a> |<a href="Alex's Page"> Alex</a> |<a href="Lexie's Page"> Lexie</a> | <b> Taylor</b> </center>
+<center><a href="#projects">Soundwalk Project</a> | <a href="#Wordpress">WordPress Site</a> | <a href="#animation">Animation Project</a>          </p>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+
+  </body>
+<style> /*Link to outside source (href) */
+body{
+  text-align: center;
+  color:Black;
+  font-size: 20px;
+  font-style: monospace;
+  background: linear-gradient(35deg, #CCFFFF,#FFCCCC);
+}
+.smaller-image{
+  width: 300px;
+}
+.screenshots{
+  width: 800px;
+}
+.thin-green-border {
+  border-color: green;
+  border-width: 5px;
+  border-style: dotted;
+}
+.thin-black-border {
+  border-color: black;
+  border-width: 10px;
+  border-style: dotted;
+  border-radius: 100px;
+}
+.bold-blue-border {
+  border-color: #4F97A3;
+  border-width: 5px;
+  border-radius: 100px;
+  border-style: solid;
+}
+.bigger-font{
+  font-size: 40px;
+}
+</style>
+<div class="container-fluid">
+<body>
+  <center><img class = "img-responsive smaller-image thin-black-border" src="https://cdn.discordapp.com/attachments/411281224607465504/555896194564620305/20190309_130623.jpg" alt="Taylor Renner"></center>
+&nbsp;&nbsp;
+  <p>
+  Hello! My name is Taylor and I'm a Gaming Interactive Media Mobile major. I am most interested in story design for video games, and my favorite genre is horror games! The game that inspired me to get into design is Resident Evil 4. I am interested in making a 2D puzzle, horror, survival game within the next year or year and a half using RPG maker. I spend most of my time playing Tom Clancy's: Rainbow Six Siege!
+  </p>
+&nbsp;&nbsp;
+  <h1 id="projects">Soundwalk Project</h1>
+  <p>Youtube link to <a href="https://www.youtube.com/watch?v=EhEFjleHA-Y&feature=youtu.be">"Horror Sound Walk"</a> done in GIMM 270! The sound walk was meant for the purposes of introducing us to the power that audio has over a player.</p>
+<p> </p>
+&nbsp;&nbsp;
+  <h1 id="Wordpress">WordPress Website Photos!</h1>
+
+  <center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555886375669465088/Screenshot_105.png" alt="First Screenshot of Wordpress"></center>
+&nbsp;&nbsp;
+  <center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555886403855319061/Screenshot_106.png" alt="Second Screenshot of Wordpress"></center>
+&nbsp;&nbsp;
+  <center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555886439355908108/Screenshot_107.png" alt="Third Screenshot of Wordpress"></center>
+&nbsp;&nbsp;
+<p> These are screenshots of the Wordpress site I made for GIMM 300. The website was a place where beginner horror game developers could come for free audio and assets. I am an aspiring game developer and thought I would personally really appreciate something like this!</p>
+&nbsp;&nbsp;
+<h1 id="animation">Animation Project</h1>
+<p>Youtube link to <a href="https://www.youtube.com/watch?v=MF7_XKeaGaI">Music Video</a> 100% storyboarded and animated by me!</p>
+</body>
+</div>
+</html>
+
+&nbsp;&nbsp;
