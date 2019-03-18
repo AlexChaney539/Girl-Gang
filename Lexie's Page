@@ -1,1 +1,41 @@
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+
+<center><h1>Lexie's Page</h1></center>
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+
+  <body>
+
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <a href="Home Page">Home</a> | <a href="Devon's Page">Devan</a> |<a href="Alex's Page"> Alex</a> |<b> Lexie</b> | <a href="Taylor's Page"> Taylor</a> </center>
+<center>  <a href=""></a> | <a href="http://ec2-54-174-24-145.compute-1.amazonaws.com/" > WordPress hosted on AWS</a> |<a href=""></a> <b> </b>  <a href=""> </a> </center>
+          </p>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
