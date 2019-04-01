@@ -10,7 +10,7 @@
     <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
 
 
-<center><h1>Alex Chaney</h1></center>
+<center><h1>Alex Chaney - Sophomore - GIMM Major</h1></center>
     <!-- Bootstrap core CSS -->
     <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -27,7 +27,7 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center>  <a href = "Home Page">Home</a> | <a href="Devon's Page">Devan</a> |<b> Alex</b> |<a href="Lexie's Page"> Lexie</a> | <a href="Taylor's Page"> Taylor</a> </center>
+          <!-- <p><center>  <a href = "Home Page">Home</a> | <a href="Devon's Page">Devan</a> |<b> Alex</b> |<a href="Lexie's Page"> Lexie</a> | <a href="Taylor's Page"> Taylor</a> </center> -->
             <a href ="#skills">Introduction</b> | <a href="">Skills</a> |<a href=""> Previous Projects</a> |<a href=""> Resume </a> | <a href=""> Contact Me</a> </center>
           </p>
         </div>
@@ -56,7 +56,7 @@
     text-align:center;
     color:Black;
     background-color:Silver;
-    font-size: 20px;
+    font-size: 25px;
     font-style: Helvetica;
     background: linear-gradient(35deg, #CCFFFF,#FFCCCC);
   }
@@ -73,28 +73,51 @@
   <body>
   <h1 style = color:red;></h1>
       <img class="smaller-image thin-black-border" src="https://cdn.discordapp.com/attachments/405447054802944021/555868091683307587/IMG_9262.JPG" alt="Alex Chaney">
-      <p>Howdy!! I am Alexandra Chaney, a Sophomore in the GIMM Major at Boise State University! I have a heavy influence with Material Science Engineering, so the visual side of GIMM is what I like to deal with. I enjoy games with a Heavy story such as The Last of Us and Red Dead Redemption 2.</p>
+      <center><p>Howdy!! I am Alexandra Chaney, a Sophomore in the GIMM Major at Boise State University! I have a heavy influence with Material Science Engineering, so the visual side of GIMM is what I like to deal with. I enjoy games with a Heavy story such as The Last of Us and Red Dead Redemption 2.</p><center>
+&nbsp;&nbsp;
+<!-- <a href ="#skills">Skills</b> | <a href=""> Past Projects </a> |<a href=""> Courses Taken </a> |<a href=""> Contact Me</a></center> -->
 &nbsp;&nbsp;
   <h2 id = "skills">SKILLS</h2>
-      <p>Some of my skills include:
-      <li>Drawing</li>
-      <li>Animation</li>
-      <li>Photography</li>
-      <li>Concepting</li>
-      <li>Collborative Work</li>
-      <li>Microsoft Word and Excel.</li>
-      </p>
+  <style>
+  body {
+      background-color: pink;
+  }
+  </style>
+    <ul>
+        <li>Drawing</li>
+        <li>Concepting</li>
+        <li>Animation</li>
+        <li>Group Collaboration</li>
+        <li>Creat
+    </ul>
       &nbsp;&nbsp;
   <h3 id = "previous projects">PREVIOUS PROJECTS</h3>
-      <center><p> WordPress Website</p>
         <center><img class = "larger-image img-responsive" src="https://media.discordapp.net/attachments/411281224607465504/555889417953345573/WordPress_Site_1.JPG?width=705&height=341">
         <center><img class = "larger-image img-responsive" src="https://cdn.discordapp.com/attachments/411281224607465504/555889447225393152/WordPress_Site_2.JPG">
-        <p>
+        </p>
           &nbsp;&nbsp;
   <h4 id = "Resume">RESUME</h4>
-      <center><p> Community Assistant, Student IT Assistant, Desk Assistant & Lab Research Technician.</p>
-      &nbsp;&nbsp;
-  <h5 id = "Contact Me">CONTACT ME</h5>
-      <center><p> Email: alexchaney539@u.boisestate.edu</p>
+      <center><img class = "large-image img-responsive" src="https://cdn.discordapp.com/attachments/411281224607465504/562070236057305089/screenshot.83.jpg">
+        &nbsp;&nbsp;
+  <h5 id = "Contact Me">Contact Me</h5>
+    <p>Email: alexchaney539@u.boisestate.edu</p>
+    <p>Phone: (100)254-3847
 </body>
 </html>
+
+<!--
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">Team Website</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <a class="active"><a href="#">Home</a>
+      <a href="Taylor.html">Taylor</a>
+      <a href="Lexie.html">Lexie</a>
+      <a href="Devan.html">Devan</a>
+      <a href="Alex.html">Alex</a>
+    </ul>
+  </div>
+</nav>
+-->
