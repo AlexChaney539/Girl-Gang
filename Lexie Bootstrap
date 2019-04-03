@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+
+<center><h1></h1></center>
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+  <style> /*Link to outside source (href) */
+  body{
+    text-align: center;
+    color:Black;
+    font-size: 20px;
+    font-style: monospace;
+    background: linear-gradient(180deg,#FCDFFF,#6DFCE4,#FFCCCC);
+  }
+  .smaller-image{
+    width: 200px;
+    border-radius: 35px;
+  }
+  .screenshots{
+    width: 800px;
+  }
+  .thin-green-border {
+    border-color: green;
+    border-width: 5px;
+    border-style: dotted;
+  }
+  .thin-black-border {
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+    border-radius: 100px;
+  }
+  .bold-blue-border {
+    border-color: #4F97A3;
+    border-width: 5px;
+    border-radius: 100px;
+    border-style: solid;
+  }
+  .bigger-font{
+    font-size: 40px;
+  }
+  </style>
+<div class="container-fluid">
+  <body>
+<h1 class="bigger-font"> Lexie Wright</h1>
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <b>Home</b> | <a href="http://ec2-54-174-24-145.compute-1.amazonaws.com/" > WordPress hosted on AWS</a>  </center>
+          </p>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+  </body>
+  <body>
+    &nbsp;&nbsp;
+
+      <a href="Lexie's Page"><img class ="smaller-image" src="https://lh3.googleusercontent.com/_QvhY3ozVb2ULxKvl80IXEVVj-it1HTiFRLCI5xtAFWXVGyZ9oq90oWFIzx-vT_HvxZw3Waq8YPoSqUmoM7FrbO48Snn3Sezo7BKb3GXc88QbSylQTc8M4tSVieUzbQU4JoF0WMM" alt="Lexie Wright"></a>
+
+
+    <p> Hello! My name is Lexie and I am a GIMM and Psychology major. I work for BSU housing and teach STEM camps for kids! In my free time I'm either playing fetch with my dog, painting, or playing Overwatch.</p>
+    <iframe src="https://drive.google.com/open?id=1f9nVbROWJb8mtf-5YU1ciLJWGIexzRad16ZejrQ5f9M" width="700" height="500" frameborder="0"></iframe>
+  </body>
+</div>
+</html>
+&nbsp;&nbsp;
