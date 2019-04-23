@@ -62,7 +62,7 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center>  <b>Home</b> | <a href="Devon's Page">Devan</a> |<a href="Alex's Page"> Alex</a> |<a href="Lexie's Page"> Lexie</a> | <a href="Taylor's Page"> Taylor</a> </center>
+          <p><center>  <b>Home</b> | <a href="Devon's Page">Devan</a> |<a href="Alex's Page"> Alex</a> |<a href="Lexie's Page"> Lexie</a> | <a href="Taylor's Page"> Taylor</a> | <a href="GeoApp"> App</a> </center>
           </p>
         </div>
       </div>
