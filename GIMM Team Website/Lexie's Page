@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+
+<center><h1>Lexie's Page</h1></center>
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+
+  <body>
+
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <a href="Home Page">Home</a> | <a href="Devon's Page">Devan</a> |<a href="Alex's Page"> Alex</a> |<b> Lexie</b> | <a href="Taylor's Page"> Taylor</a> | <a href = "Book Exchange App"> Book Exchange App</a> </center>
+<center>  <a href="">Resume</a> | <a href="http://ec2-54-174-24-145.compute-1.amazonaws.com/" > WordPress hosted on AWS</a> |<a href=""> Work Experience</a> <b> </b>  <a href=""> </a> </center>
+          </p>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+  </body>
+  </html>
+  <html>
+  <title>Team Website</title>
+  <style> /*Link to outside source (href) */
+  body{
+    text-align:center;
+    color:Black;
+    background-color:Silver;
+    font-size: 25px;
+    font-style: Helvetica;
+    background: linear-gradient(35deg, #CCFFFF,#FFCCCC);
+  }
+  .smaller-image{
+    width:200px;
+  }
+  .thin-black-border {
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 100px;
+  }
+  </style>
+  <body>
+    <h1>Welcome to the Team!</h1>
+  <h1 style = color:red;></h1>
+          <img class ="smaller-image thin-black-border" src="https://lh3.googleusercontent.com/_QvhY3ozVb2ULxKvl80IXEVVj-it1HTiFRLCI5xtAFWXVGyZ9oq90oWFIzx-vT_HvxZw3Waq8YPoSqUmoM7FrbO48Snn3Sezo7BKb3GXc88QbSylQTc8M4tSVieUzbQU4JoF0WMM" alt="Lexie Wright">
+      <p>Hey! My name is Lexie and I am a GIMM and Psychology major. I work for BSU housing as a Resident Assistant. In my free time I'm either playing fetch with my dog, painting, or playing Overwatch.</p>
+  </body>
+  </html>
+
+  </body>
+</html>

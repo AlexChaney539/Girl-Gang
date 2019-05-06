@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+
+<center><h1></h1></center>
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+  <style> /*Link to outside source (href) */
+  body{
+    text-align: center;
+    color:Black;
+    font-size: 20px;
+    font-style: monospace;
+    background: linear-gradient(35deg, #CCFFFF,#FFCCCC);
+  }
+  .smaller-image{
+    width: 200px;
+  }
+  .screenshots{
+    width: 800px;
+  }
+  .thin-green-border {
+    border-color: green;
+    border-width: 5px;
+    border-style: dotted;
+  }
+  .thin-black-border {
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+    border-radius: 100px;
+  }
+  .bold-blue-border {
+    border-color: #4F97A3;
+    border-width: 5px;
+    border-radius: 100px;
+    border-style: solid;
+  }
+  .bigger-font{
+    font-size: 40px;
+  }
+  </style>
+<div class="container-fluid">
+  <body>
+<h1 class="bigger-font"> Welcome to D.A.L.T.</h1>
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <b>Home</b> | <a href="Devon's Page">Devan</a> |<a href="Alex's Page"> Alex</a> |<a href="Lexie's Page"> Lexie</a> | <a href="Taylor's Page"> Taylor</a> | <a href = "Book Exchange App"> Book Exchange App</a> </center>
+          </p>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+  </body>
+  <body>
+    &nbsp;&nbsp;
+      <a href="Devon's Page"><img class ="smaller-image" src="https://cdn.discordapp.com/attachments/405447054802944021/544399338177298433/U3LFRN_9_400x400.jpg" alt="Devan Chaney"></a>
+&nbsp;&nbsp;
+      <a href="Alex's Page"><img class="smaller-image" src="https://cdn.discordapp.com/attachments/405447054802944021/555868091683307587/IMG_9262.JPG" alt="Alex Chaney"></a>
+&nbsp;&nbsp;
+      <a href="Lexie's Page"><img class ="smaller-image" src="https://lh3.googleusercontent.com/_QvhY3ozVb2ULxKvl80IXEVVj-it1HTiFRLCI5xtAFWXVGyZ9oq90oWFIzx-vT_HvxZw3Waq8YPoSqUmoM7FrbO48Snn3Sezo7BKb3GXc88QbSylQTc8M4tSVieUzbQU4JoF0WMM" alt="Lexie Wright"></a>
+&nbsp;&nbsp;
+      <a href="Taylor's Page"><img class = "smaller-image" src="https://cdn.discordapp.com/attachments/511449381073846280/535037149741973520/12032198_10203739799615964_4320512583226737048_n.jpg" alt="Taylor Renner"></a>
+&nbsp;&nbsp;
+    <p> D.A.L.T. is comprised of four very smart and badass ladies: Devan, Alex, Lexie, and Taylor. D.A.L.T. is an experience! We invite you to come and find out more about us! As our group does more and more projects as a team, they will be posted here, but for now, go ahead and click on our names or pictures to experience our individualities!</p>
+  </body>
+  <body>
+    <h1>Our First Team Project: A Book Sharing App for GIMM Students!</h1>
+    <p>The App itself is not published yet, but when it is, we will post it here! For now, you can go ahead and experience our map part of our app.</p>
+    <p> How the App functions: when a user has a book that they wish to give away, they post a listing onto the app that goes into an actively updated listings page. From there, users that are browsing books can find what they are looking for as well as find contact information to get in contact with the user giving that book away. When they come to an agreement and wish to meet up with them, the person giving the book away has an option to pin their location using Google Maps Geolocation data and saving it to our app. The other user can access this data by going to the map and finding and clicking on either their pin, or the listing accompanied with their pin. After they have met up, they can delete their pin and their listing, or mark it as unavailable after editing it.</p>
+  </body>
+</div>
+</html>
+&nbsp;&nbsp;
